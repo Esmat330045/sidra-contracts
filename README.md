@@ -67,4 +67,4 @@ This contract handles the receipt of waqf (charitable donations) and ensures the
 
 ## Notes
 
-- As these are genesis contracts for the Sidra Chain, they are designed for direct initialization in the genesis block.
+- As these are genesis contracts for the Sidra Chain, they are designed for direct initialization in the genesis block.change
